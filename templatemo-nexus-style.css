@@ -1458,7 +1458,7 @@
 
         @media (max-width: 480px) {
             .mobile-menu {
-                width: 80%;
+                width: 90%;
                 max-width: none;
             }
             
